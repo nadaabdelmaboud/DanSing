@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: 94cb9743c34caae4ebddf6ef7831f8d3
+  - enabled: 1
+    path: Assets/Scenes/singmenu.unity
+    guid: 7438785f215039e40a7939c3a37809bd
+  - enabled: 1
+    path: Assets/Scenes/dancemenu.unity
+    guid: 34b97acbe3768e44c9fb4529be9cb1c8
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: aef5bc22eb7b7c541958eafa1bf2c600
+  - enabled: 1
+    path: Assets/Scenes/karaoki.unity
+    guid: 4e405533aff09be4cad390570bc87bca
+  - enabled: 1
+    path: Assets/Scenes/singing.unity
+    guid: 51d125634ff1ddd4b83fc85591746756
+  m_configObjects: {}

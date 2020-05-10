@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: dae70c7e722f69e4f83f6373db0fa160
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: HemisphereLight
+    100002: Mika
+    100004: Object01
+    100006: Object02
+    100008: Object03
+    100010: Object04
+    100012: //RootNode
+    100014: Streak2
+    400000: HemisphereLight
+    400002: Mika
+    400004: Object01
+    400006: Object02
+    400008: Object03
+    400010: Object04
+    400012: //RootNode
+    400014: Streak2
+    2100000: Tex001f_eyeMaterial
+    2100002: Standard
+    2100004: ReferenceMaterial
+    2100006: Texf_mouseMaterial
+    2100008: Tex002f_body02Material
+    2300000: Object01
+    2300002: Object02
+    2300004: Object03
+    2300006: Object04
+    2300008: Streak2
+    3300000: Object01
+    3300002: Object02
+    3300004: Object03
+    3300006: Object04
+    3300008: Streak2
+    4300000: Object04
+    4300002: Object02
+    4300004: Streak2
+    4300006: Object01
+    4300008: Object03
+    10800000: HemisphereLight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReferenceMaterial
+    second: {fileID: 2100000, guid: e9b626876deb41a4b809d45e1d01445a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard
+    second: {fileID: 2100000, guid: 66bab6e9e94f5884687dfe7c2747e859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex001f_eyeMaterial
+    second: {fileID: 2100000, guid: 3bf1152bc984c2a4d83414f7b39556d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex002f_body02Material
+    second: {fileID: 2100000, guid: 8ea0a3526d715204aafd39aeadb248ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texf_mouseMaterial
+    second: {fileID: 2100000, guid: 6fb07b712a7db674d84f32232458dcb5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Reference
+    second: {fileID: 2800000, guid: 276068961c2006b4ea50935fc1ae8806, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Reference2
+    second: {fileID: 2800000, guid: a85e88d1198c7ad4bb2421591bc40d87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex001f_eye.512x512
+    second: {fileID: 2800000, guid: 8174fcf3cb6b2a546b5e2a2d85421ef7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex002f_body01.512x512
+    second: {fileID: 2800000, guid: ccb44aa4753440c42a58866785a2f3d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tex002f_body02.1024x1024
+    second: {fileID: 2800000, guid: 7953b2725991cdc4a9a49f7a2d9eb4bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texf_body02.1024x1024
+    second: {fileID: 2800000, guid: 01d905b49e58bd9458df1bb85e63a896, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texf_mouse.256x256
+    second: {fileID: 2800000, guid: a4d8a2323d63063409c433d5c0f1b818, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
